@@ -18,12 +18,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
 
+  <br/>
+  
+
 
 ###
 
 <p align="center">🇮🇹 I'm from Palermo, Italy<br> 📚 I'm always learning something new</p>
 
 ###
+
+  <br/>
 
 <h2 align="center">🛠 Language and tools 🛠</h2>
 
