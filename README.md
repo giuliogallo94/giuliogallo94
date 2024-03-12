@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/coding-with-AI.jpg?itok=Yio6CSE8"  />
+  <img height="auto" src="https://qph.cf2.quoracdn.net/main-qimg-e6174e94d0646d360ecae1ba094b894e-pjlq"  />
 </div>
 
 ###
