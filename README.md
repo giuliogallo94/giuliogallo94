@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="[https://cdn.sanity.io/images/tlr8oxjg/production/5c3120359be5c4f225cd7b817811217041b759ab-1192x668.png?w=3840&q=80&fit=clip&auto=format](https://lundgrens.dk/sites/default/files/styles/background_full_wide/public/node/field_image/iStock-1399342589.jpg?itok=sgN1eK3I)"  />
+  <img height="600" src="https://www.michaelpage.co.jp/sites/michaelpage.co.jp/files/styles/advice_node_desktop/public/2022-06/Software%20Developer.jpg.webp?itok=9vjIPsu4"  />
 </div>
 
 ###
