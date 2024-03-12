@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://candid.technology/wp-content/uploads/2019/11/Computer-programming-languages-coding-329090sd-java-python-php.jpg"  />
+  <img height="auto" width="100%" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png"  />
 </div>
 
 ###
