@@ -73,8 +73,6 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
  <img src="https://raw.githubusercontent.com/giuliogallo94/giuliogallo94/output/snake.svg"  />
 
 <div align="center">
