@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://www.michaelpage.co.jp/sites/michaelpage.co.jp/files/styles/advice_node_desktop/public/2022-06/Software%20Developer.jpg.webp?itok=9vjIPsu4"  />
+  <img height="400" width="100%" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/coding-with-AI.jpg?itok=Yio6CSE8"  />
 </div>
 
 ###
