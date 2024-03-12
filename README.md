@@ -5,8 +5,7 @@
 ###
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&background=AAFFE400&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B+I'm+Giulio+Gallo;I'm+a+Jr+Full+Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&background=AAFFE400&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B+I'm+Giulio+Gallo;I'm+a+Jr+Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 ###
