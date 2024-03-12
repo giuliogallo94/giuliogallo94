@@ -57,7 +57,7 @@
 </div>
 
 ###
-  <br/>
+  <br>
 
 <h2 align="center">🔥   My Stats :</h2>
 
@@ -74,6 +74,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
