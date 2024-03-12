@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from Palermo, Italy 🇮🇹<br>- 👨‍💻 I’m a Jr Full Stack Developer<br>- 📚 I'm always learning something new</p>
+<p align="center">I'm from Palermo, Italy 🇮🇹<br>- 👨‍💻 I’m a Jr Full Stack Developer<br>- 📚 I'm always learning something new</p>
 
 ###
 
