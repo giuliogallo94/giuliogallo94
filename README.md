@@ -59,7 +59,7 @@
 ###
   <br>
 
-<h2 align="center">🔥   My Stats :</h2>
+<h2 align="center">🔥 My Stats 🔥</h2>
 
 ###
 
