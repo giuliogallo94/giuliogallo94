@@ -3,12 +3,9 @@
 </div>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+👋++I'm+Giulio+Gallo;Second+line+of+text)](https://git.io/typing-svg)
+<h1 align="center">Hey there 👋 I'm Giulio Gallo</h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?fonf-Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋 I'm+Giulio+Gallo!;"/>
-  
-</h1>
 
 ###
 
