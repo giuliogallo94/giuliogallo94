@@ -3,8 +3,12 @@
 </div>
 
 ###
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&background=AAFFE400&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B+I'm+Giulio+Gallo;I'm+a+Jr+Full+Stack+Developer)](https://git.io/typing-svg)
 
+
+</div>
 ###
 
 <div align="center">
@@ -14,7 +18,7 @@
   <a href="https://twitter.com/GiulioGallo19" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-</div>
+
 
 ###
 
