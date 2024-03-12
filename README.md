@@ -3,8 +3,8 @@
 </div>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+👋++I'm+Giulio+Gallo;Second+line+of+text)](https://git.io/typing-svg)
-<h1 align="center">Hey there 👋 I'm Giulio Gallo</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+👋++I'm+Giulio+Gallo;I'm+a+Jr+Full+Stack+Developer)](https://git.io/typing-svg)
+
 
 
 ###
