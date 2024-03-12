@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&background=AAFFE400&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Giulio+Gallo;I'm+a+Jr+Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
-###
+
 
 <div align="center">
   <a href="www.linkedin.com/in/giuliogallo94" target="_blank">
