@@ -69,10 +69,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=giuliogallo94.giuliogallo94&"  />
-</div>
-
 ###
 
 <div align="center">
@@ -85,5 +81,11 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=giuliogallo94.giuliogallo94&"  />
+</div>
+
 
 ###
