@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://qph.cf2.quoracdn.net/main-qimg-e6174e94d0646d360ecae1ba094b894e-pjlq"  />
+  <img height="auto" width="100%" src="https://candid.technology/wp-content/uploads/2019/11/Computer-programming-languages-coding-329090sd-java-python-php.jpg"  />
 </div>
 
 ###
