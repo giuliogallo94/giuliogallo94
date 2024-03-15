@@ -76,9 +76,7 @@
   <h2>🐍 My Contributions 🐍</h2>
  <img src="https://raw.githubusercontent.com/giuliogallo94/giuliogallo94/output/snake.svg"  />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=giuliogallo94.giuliogallo94&"  />
-</div>
+
 
 
 ###
